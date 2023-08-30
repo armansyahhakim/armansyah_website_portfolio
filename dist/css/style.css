@@ -487,8 +487,11 @@
     background-color: green;
 }
 
-.projects-box {
+.projects-box{
     margin-top: 200px;
+}
+.projects-box .big-projects .big-projects-box{
+    margin: auto;
 }
 
 .resume {
