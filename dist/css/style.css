@@ -411,6 +411,7 @@
     flex-wrap: wrap;
     column-gap: 20px;
     row-gap: 50px;
+    margin: auto;
 }
 
 .projects .big-projects .big-projects-box .box {
