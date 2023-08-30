@@ -831,6 +831,7 @@
         text-align: center;
         justify-content: center;
         margin-inline: auto;
+        width: 400px;
     }
 
     .projects-box .big-projects .big-projects-box .box .tools{
@@ -869,6 +870,7 @@
         text-align: center;
         justify-content: center;
         margin-inline: auto;
+        width: 400px;
     }
 
     .projects-box .big-projects .big-projects-box .box .tools{
