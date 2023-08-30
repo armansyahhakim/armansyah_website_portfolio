@@ -821,7 +821,19 @@
         font-size: 12px;
     }
 
+    .projects-box .big-projects .big-projects-box{
+        text-align: center;
+        justify-content: center;
+        margin-inline: auto;
+    }
+
     .projects-box .big-projects .big-projects-box .box{
+        text-align: center;
+        justify-content: center;
+        margin-inline: auto;
+    }
+
+    .projects-box .big-projects .big-projects-box .box .tools{
         text-align: center;
         justify-content: center;
         margin-inline: auto;
@@ -847,7 +859,19 @@
         font-size: 30px;
     }
 
+    .projects-box .big-projects .big-projects-box{
+        text-align: center;
+        justify-content: center;
+        margin-inline: auto;
+    }
+
     .projects-box .big-projects .big-projects-box .box{
+        text-align: center;
+        justify-content: center;
+        margin-inline: auto;
+    }
+
+    .projects-box .big-projects .big-projects-box .box .tools{
         text-align: center;
         justify-content: center;
         margin-inline: auto;
