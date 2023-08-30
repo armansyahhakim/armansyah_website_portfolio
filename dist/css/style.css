@@ -817,11 +817,6 @@
     .resume .resume-box .box p {
         font-size: 12px;
     }
-
-    .footer .footer-box .box:nth-child(1) {
-        text-align: center;
-        display: flex;
-    }
 }
 
 @media screen and(max-width:375px) {
